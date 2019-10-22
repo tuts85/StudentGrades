@@ -1,0 +1,15 @@
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\bin\Debug\StudentGrades.exe.config
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\bin\Debug\StudentGrades.exe
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\bin\Debug\StudentGrades.pdb
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\MainWindow.g.cs
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\App.g.cs
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\StudentGrades_MarkupCompile.cache
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\StudentGrades_MarkupCompile.lref
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\MainWindow.baml
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\StudentGrades.g.resources
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\StudentGrades.Properties.Resources.resources
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\StudentGrades.csproj.GenerateResource.cache
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\StudentGrades.exe
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\StudentGrades.pdb
+C:\Users\Arthur Lazaro\source\repos\StudentGrades\StudentGrades\obj\Debug\StudentGrades.csprojAssemblyReference.cache
